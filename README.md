@@ -1,14 +1,11 @@
-# task-todo
+# Manage-Tasks
 
-This template should help get you started developing with Vue 3 in Vite.
+## Clone the Repository:
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+```sh
+git clone https://github.com/mahmodghnaj/manage-tasks
+cd manage-tasks
+```
 
 ## Project Setup
 
@@ -26,5 +23,11 @@ npm run dev
 
 ```sh
 npm run build
+
 ```
-# manage-tasks
+
+### Demo
+
+You can check out the demo [here](https://manage-tasks-gamma.vercel.app/).
+
+# Manage-tasks
